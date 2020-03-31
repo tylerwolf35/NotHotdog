@@ -4,9 +4,9 @@
 ![Demo](nothotdog.gif)
 
 ### Dependencies
-* [Python3](https://python.org)
+* [Python 3](https://python.org)
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
-* [Keras](https://github.com/keras/keras)
+* [Keras](https://github.com/keras-team/keras)
 * [Streamlit](https://github.com/streamlit/streamlit) (If you want to run the Streamlit version)
 
 ### How to use? (Streamlit)
