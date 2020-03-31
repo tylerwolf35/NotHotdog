@@ -3,13 +3,16 @@
 ## This application uses the VGG16 neural network created by researchers at Oxford University, you can read about it [here](https://arxiv.org/abs/1409.1556).
 ![Demo](nothotdog.gif)
 
-### Dependencies
+### How to use? (Google Colab)
+Google Colab is the easiest way to run this application, simply click on the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DBzJNvDEdmOB2eg6IFNmH7Cu7c5juf9c)
+
+### How to use? (Streamlit)
+
+##### Dependencies
 * [Python 3](https://python.org)
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 * [Keras](https://github.com/keras-team/keras)
 * [Streamlit](https://github.com/streamlit/streamlit) (If you want to run the Streamlit version)
-
-### How to use? (Streamlit)
 Clone the repository and run ```streamlit run upload.py``` in the streamlit directory of the project.
 
 ### How to use? (Jupyter Notebook)
