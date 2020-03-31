@@ -2,3 +2,12 @@
 
 ## This application uses the VGG16 neural network created by researchers at Oxford University, you can read about it [here](https://arxiv.org/abs/1409.1556).
 ![Demo](nothotdog.gif)
+
+### Dependencies
+* Python3
+* Tensorflow
+* Keras
+* Streamlit (If you want to run the Streamlit version)
+
+### How to use? (Streamlit)
+Clone the repository and run ```streamlit run upload.py``` in the directory of the project.
