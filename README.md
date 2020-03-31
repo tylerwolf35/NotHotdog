@@ -4,10 +4,10 @@
 ![Demo](nothotdog.gif)
 
 ### Dependencies
-* Python3
-* Tensorflow
-* Keras
-* Streamlit (If you want to run the Streamlit version)
+* [Python3](https://python.org)
+* [Tensorflow](https://github.com/tensorflow/tensorflow)
+* [Keras](https://github.com/keras/keras)
+* [Streamlit](https://github.com/streamlit/streamlit) (If you want to run the Streamlit version)
 
 ### How to use? (Streamlit)
 Clone the repository and run ```streamlit run upload.py``` in the directory of the project.
