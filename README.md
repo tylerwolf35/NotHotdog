@@ -11,3 +11,6 @@
 
 ### How to use? (Streamlit)
 Clone the repository and run ```streamlit run upload.py``` in the streamlit directory of the project.
+
+### How to use? (Jupyter Notebook)
+Clone the repository and open the file "NotHotdog-jupyter.ipynb" in Jupyter.
