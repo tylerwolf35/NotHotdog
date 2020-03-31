@@ -1,4 +1,4 @@
-# A creation of the famous [Not Hotdog](https://www.youtube.com/watch?v=ACmydtFDTGs) application from the HBO television series Silicon Valley.
+# A creation of the famous [Not Hotdog](https://www.youtube.com/watch?v=ACmydtFDTGs) application from the HBO television series Silicon Valley. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DBzJNvDEdmOB2eg6IFNmH7Cu7c5juf9c)
 
 ## This application uses the VGG16 neural network created by researchers at Oxford University, you can read about it [here](https://arxiv.org/abs/1409.1556).
 ![Demo](nothotdog.gif)
