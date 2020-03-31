@@ -10,4 +10,4 @@
 * [Streamlit](https://github.com/streamlit/streamlit) (If you want to run the Streamlit version)
 
 ### How to use? (Streamlit)
-Clone the repository and run ```streamlit run upload.py``` in the directory of the project.
+Clone the repository and run ```streamlit run upload.py``` in the streamlit directory of the project.
